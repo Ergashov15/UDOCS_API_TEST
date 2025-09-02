@@ -1,0 +1,52 @@
+{
+    "success": true,
+    "data": {
+        "guid": "a84231da-7034-4779-8943-261afaf0a85a",
+        "status": "created",
+        "data": {
+            "owner": {
+                "name": "ERGASHEV TURSUNMAMAT BOYQOBILOVICH",
+                "branch": null,
+                "tin_pin": "51511035610071",
+                "branchName": null
+            },
+            "signers": [],
+            "document": {
+                "district": "j10DD",
+                "contract_date": "2025-07-11",
+                "contract_number": "mjmXt",
+                "credit_user_name": "DvW9g",
+                "service_bank_name": "kqK1D",
+                "service_bank_stir": 129,
+                "credir_user_org_stir": 117,
+                "credit_user_org_name": "wJyIL",
+                "service_bank_manager_name": "77cKN"
+            },
+            "template": {
+                "code": "cyber_sec_test",
+                "name": "Cyber_sec-sample_template",
+                "version": "v1"
+            },
+            "clientDocumentId": "a84231da-7034-4779-8943-261afaf0a85a"
+        },
+        "signers": [
+            {
+                "tin_pin": "51511035610071",
+                "name": "ERGASHEV TURSUNMAMAT BOYQOBILOVICH",
+                "signerResult": "unsigned"
+            }
+        ],
+        "type": {
+            "code": "clientDocuments",
+            "name": "\u041c\u0438\u0436\u043e\u0437 \u04b3\u0443\u0436\u0436\u0430\u0442\u043b\u0430\u0440\u0438"
+        },
+        "template": {
+            "name": "cyber_sec_test",
+            "title": "Cyber_sec-sample_template",
+            "category": "Hujjat",
+            "type": null
+        },
+        "created_at": "16.07.2025 14:51:56"
+    },
+    "message": "Muvaffaqiyatli"
+}

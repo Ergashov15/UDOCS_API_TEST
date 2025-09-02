@@ -1,0 +1,15 @@
+{
+    "success": true,
+    "data": {
+        "statuses": {
+            "signed": "signed",
+            "process": "process",
+            "accepted": "accepted",
+            "rejected": "rejected",
+            "cancelled": "cancelled",
+            "revoked": "revoked",
+            "revoked_by_stc": "revoked"
+        }
+    },
+    "message": "Muvaffaqiyatli"
+}

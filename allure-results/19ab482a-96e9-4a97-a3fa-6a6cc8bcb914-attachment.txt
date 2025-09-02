@@ -1,0 +1,2 @@
+[32mINFO    [0m utilities.logger:api_client.py:21 GET https://api.udocs.realtest.uz/api/client/documents/a7cb2c75-e389-49d5-83a1-c16466dbaf0c/steps
+[32mINFO    [0m utilities.logger:api_client.py:30 Response 200 for https://api.udocs.realtest.uz/api/client/documents/a7cb2c75-e389-49d5-83a1-c16466dbaf0c/steps

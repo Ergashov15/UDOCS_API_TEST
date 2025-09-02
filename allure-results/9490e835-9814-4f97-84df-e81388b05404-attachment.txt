@@ -1,0 +1,1 @@
+{'success': True, 'data': {'url': 'https://udocs.realtest.uz/documents/a84231da-7034-4779-8943-261afaf0a85a?token=186748349f8607d8d11d26a17570453ce6fd82c0522869496d83b749b3d693d6cd23c97bb04b02b3&redirect_url=https%3A%2F%2Fapi.udocs.realtest.uz%2Fapi%2Fclient%2Fdocument%2Faccess&host_url=https%3A%2F%2Fapi.udocs.realtest.uz'}, 'message': 'Muvaffaqiyatli'}

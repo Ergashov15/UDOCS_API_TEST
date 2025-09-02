@@ -1,0 +1,2 @@
+[32mINFO    [0m utilities.logger:api_client.py:21 POST https://api.udocs.realtest.uz/api/client/document/access
+[32mINFO    [0m utilities.logger:api_client.py:30 Response 200 for https://api.udocs.realtest.uz/api/client/document/access

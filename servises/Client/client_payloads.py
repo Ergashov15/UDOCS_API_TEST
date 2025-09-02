@@ -1,0 +1,7 @@
+client_payloads={
+  "url": "https://api.udocs.realtest.uz/api/client/config/update",
+  "auth_type": 1,
+  "username": "cyber_security1",
+  "password": "cyber_security_admin",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxNCIsInVzZXJJcCI6IjEyNy4wLjAuMSIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzguMC4wLjAgU2FmYXJpLzUzNy4zNiIsImNsaWVudElkcyI6eyJjbGllbnRfaWQiOjE0LCJ1c2VyX2lkIjoyMX0sImlzcyI6Imh0dHBzOi8vYXBpLnVkb2NzLnJlYWx0ZXN0LnV6L2FwaS9jbGllbnQvYXV0aC9sb2dpbiIsImlhdCI6MTc1MjIyNjkyNywiZXhwIjoxNzUyMjM0MTI3LCJuYmYiOjE3NTIyMjY5MjcsImp0aSI6Im1RVHFsOVR2cDNJTWF3THMifQ.yYFbsq9Ft0TGXgE22mr9mgwIF53B8Ye8KlW-gm7ZHcQ"
+}
